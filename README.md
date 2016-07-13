@@ -56,7 +56,8 @@ Trabalho realizado em regime de freelance.
   - Desenvolvimento Backend
   - Desenvolvimento de gestor de conteúdos à medida do cliente
   - PHP / MySQL / HTML / CSS / Javascript / jQuery
-  - 
+
+
 # 2012 - L'Oreal Studio Line Indestructible
 
 Campanha desenvolvida para a L'Óreal Paris Portugal.
@@ -105,7 +106,7 @@ Website "Eurocongressos".
 Trabalho realizado em regime de freelance.
 
   - Desenvolvimento Frontend através de layout fornecido
-  - PHP / HTML / CSS / SCSS / SASS / Javascript / jQuery
+  - PHP / HTML / CSS / SCSS / SASS / Javascript / jQuery / Bootstrap
 
 # 2015 - Nossa Cidade
 
@@ -114,7 +115,7 @@ Painel de Gestão "Nossa Cidade" (ferramenta de análise e gestão para juntas d
 Trabalho realizado em regime de freelance.
 
   - Desenvolvimento Frontend através de layout fornecido
-  - PHP / HTML / CSS / SCSS / SASS / Javascript
+  - PHP / HTML / CSS / SCSS / SASS / Javascript / Bootstrap
 
 # 2015 / 2016 - Loja Nord
 
@@ -125,7 +126,7 @@ Trabalho realizado em regime de freelance.
   - Desenvolvimento Frontend através de layout fornecido
   - Desenvolvimento Backend
   - Desenvolvimento de gestor de conteúdos à medida do cliente
-  - PHP / MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery
+  - PHP / MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Bootstrap
 
 # 2016 - Bocadélia
 
@@ -136,7 +137,7 @@ Trabalho realizado ao serviço da Spotlab.
   - Desenvolvimento Frontend através de layout fornecido
   - Desenvolvimento Backend
   - Desenvolvimento de gestor de conteúdos à medida do cliente
-  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel
+  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel / Bootstrap
 
 
 # 2016 - EMKT
@@ -154,7 +155,7 @@ Principais características:
 Trabalho realizado em regime de freelance.
 
   - Desenvolvimento Backend
-  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel
+  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel / Bootstrap
 
 
 # 2016 - Luxury Route
@@ -166,4 +167,4 @@ Trabalho realizado ao serviço da Spotlab.
   - Desenvolvimento Frontend através de layout fornecido
   - Desenvolvimento Backend
   - Desenvolvimento de gestor de conteúdos à medida do cliente
-  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel
+  - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel / Bootstrap
