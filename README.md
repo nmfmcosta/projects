@@ -46,6 +46,15 @@ Trabalho realizado em regime de freelance.
   - Desenvolvimento de gestor de conteúdos à medida do cliente
   - PHP / MySQL / HTML / CSS / Javascript / jQuery
 
+# 2012 - Senna Emotion (BR)
+
+Website "Senna Emotion" de apoio a uma exposição interactiva sobre Ayrton Senna.
+
+Trabalho realizado ao serviço da Accedo.
+
+  - Desenvolvimento Frontend através de layout fornecido
+  - HTML / CSS / Javascript
+
 # 2012 - L'Oreal O Meu Elvive
 
 Campanha "O Meu Elvive" desenvolvida para a L'Óreal Paris Portugal.
@@ -79,6 +88,16 @@ Trabalho realizado em regime de freelance.
   - Desenvolvimento de gestor de conteúdos à medida do cliente
   - PHP / MySQL / HTML / CSS / Javascript / jQuery
 
+# 2013 - Hoteis Othon (BR)
+
+Website para a cadeia de hoteis Othon e respectivo booking engine.
+
+Trabalho realizado ao serviço da Accedo.
+
+  - Desenvolvimento Frontend através de layout fornecido
+  - Respectiva integração com REST API
+  - HTML / CSS / Javascript
+
 # 2013 - Telefonica Vivo (BR)
 
 Website "Desafio Tecnologias Que Transformam" para o cliente Telefônica Vivo. 
@@ -98,6 +117,24 @@ Trabalho realizado ao serviço da Accedo.
   - Desenvolvimento de interface da aplicação através de layout fornecido 
   - Respectiva integração com REST API
   - HTML / CSS / SCSS / SASS / Javascript
+
+# 2014 - Sumol
+
+Website Sumol.
+
+Trabalho realizado ao serviço da Accedo.
+
+  - Desenvolvimento Frontend através de layout fornecido
+  - PHP / HTML / CSS / SCSS / SASS / Javascript / jQuery / Bootstrap
+
+# 2014 - B!
+
+Website B!.
+
+Trabalho realizado ao serviço da Accedo.
+
+  - Desenvolvimento Frontend através de layout fornecido
+  - PHP / HTML / CSS / SCSS / SASS / Javascript / jQuery / Bootstrap
 
 # 2014 - Eurocongressos
 
