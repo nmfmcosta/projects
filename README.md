@@ -205,3 +205,13 @@ Trabalho realizado ao serviço da Spotlab.
   - Desenvolvimento Backend
   - Desenvolvimento de gestor de conteúdos à medida do cliente
   - PHP /  MySQL / HTML / CSS / SCSS / SASS / Javascript / jQuery / Laravel / Bootstrap
+
+
+# 2016 - GoFree
+
+Website para a empresa GoFree.
+
+Trabalho realizado em regime de freelance para a agência Massive Digital Creative Agency
+
+  - Desenvolvimento Frontend através de layout fornecido
+  - HTML / CSS / SCSS / SASS / Javascript / jQuery / Bootstrap
